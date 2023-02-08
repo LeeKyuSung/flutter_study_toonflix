@@ -1,4 +1,6 @@
-# flutter_study_toonflix 
+# flutter-for-beginners
+
+NomadCoders flutter-for-beginners study
   
 https://nomadcoders.co/flutter-for-beginners  
   
