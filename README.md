@@ -1,6 +1,4 @@
-# flutter-for-beginners
-
-NomadCoders flutter-for-beginners study
+# flutter_study_stateful_widgets
   
 https://nomadcoders.co/flutter-for-beginners  
   

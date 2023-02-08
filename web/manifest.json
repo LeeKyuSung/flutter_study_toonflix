@@ -1,6 +1,6 @@
 {
-    "name": "toonflix",
-    "short_name": "toonflix",
+    "name": "stateful_widgets",
+    "short_name": "stateful_widgets",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

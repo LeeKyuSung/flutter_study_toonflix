@@ -1,4 +1,4 @@
-package com.example.toonflix
+package com.example.stateful_widgets
 
 import io.flutter.embedding.android.FlutterActivity
 
