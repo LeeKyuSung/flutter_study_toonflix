@@ -1,6 +1,6 @@
 {
-    "name": "toonflix",
-    "short_name": "toonflix",
+    "name": "ui_challenge",
+    "short_name": "ui_challenge",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

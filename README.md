@@ -1,6 +1,4 @@
-# flutter-for-beginners
-
-NomadCoders flutter-for-beginners study
+# flutter_study_ui_challenge
   
 https://nomadcoders.co/flutter-for-beginners  
   
